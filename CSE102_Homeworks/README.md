@@ -3,7 +3,7 @@
 This repository contains C programming assignments completed as part of the  
 **CSE102 – Computer Programming** course.
 
-All assignments are organized under the `C/` directory.  
+All assignments are organized under the `C-/CSE102_Homeworks` directory.  
 Each assignment folder includes:
 - The original assignment description (PDF)
 - A corresponding `main.c` implementation
